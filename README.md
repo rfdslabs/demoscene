@@ -350,6 +350,10 @@ The format is `DEMO_SHOT=<seconds>:<output.bmp>`. The intro runs until that time
 
 TinyIntro has its own headless frame dumper: `bash build/tools.sh && ./build/out/dump`.
 
+## License
+
+[MIT](LICENSE). Learn from it, remix it, ship your own intro.
+
 ---
 
 *Greetz to everyone still writing C++ in 2026.* :)
