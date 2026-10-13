@@ -1,0 +1,8 @@
+title TinyIntro Demo
+bpm 125
+scroll TINYINTRO PRESENTS ... ANOTHER USELESS PIECE OF SOFTWARE :) ... GREETZ TO EVERYONE STILL WRITING C++ IN 2026 ... SIX CLASSIC EFFECTS, ZERO EXTERNAL LIBS, ONE TINY BINARY ... WRAP !
+scene starfield 0 16 0.6 0 0 0 0 0 0 0
+scene plasma 16 16 0 0 0 0 0 0 0 0
+scene copperbars 32 16 0 0 0 0 0 0 0 0
+scene rotozoom 48 16 0 0 0 0 0 0 0 0
+scene tunnel 64 16 1 0 0 0 0 0 0 0

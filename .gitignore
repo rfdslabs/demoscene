@@ -1,0 +1,14 @@
+# CMake build dirs (introcreator/build holds source scripts; it has its own .gitignore)
+/*_intro/build/
+/mac_demo/build/
+
+# macOS
+.DS_Store
+
+# python virtualenvs
+env/
+.venv/
+
+# not part of this repo
+/FieldStation42/
+/BLOG_POST.md
